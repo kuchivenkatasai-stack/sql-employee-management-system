@@ -63,14 +63,6 @@ This project includes practical usage of:
 
 ---
 
-## Project Structure
-sql-employee-management-system/
-│
-├── sql_final_project.sql
-└── README.md
-
----
-
 ## How to Use
 1. Install MySQL Server and MySQL Workbench.
 2. Open the `sql_final_project.sql` file.
